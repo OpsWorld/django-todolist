@@ -1,2 +1,3 @@
-# django-todolist
-任务管理系统
+#任务管理系统
+
+[说明](http://xiangduole.com/todolist)
